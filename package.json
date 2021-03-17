@@ -1,0 +1,27 @@
+{
+  "name": "wilders-cecile",
+  "version": "1.0.0",
+  "description": "exercise with chalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuboisCecile/wilders.git"
+  },
+  "keywords": [
+    "exercice",
+    "wilders"
+  ],
+  "author": "Cécile Dubois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuboisCecile/wilders/issues"
+  },
+  "homepage": "https://github.com/DuboisCecile/wilders#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
